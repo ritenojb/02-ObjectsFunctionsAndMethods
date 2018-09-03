@@ -65,7 +65,7 @@ def turtle_fun():
     alan.begin_fill()
     alan.draw_circle(25)
     alan.end_fill()
-    alan.backward(200)
+
 
     window.close_on_mouse_click()
 
